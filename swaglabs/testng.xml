@@ -1,0 +1,19 @@
+
+<suite name="Suite" thread-count="1">
+  <test name="Test" >
+    <classes>
+      <class name="test.Swag_wrngcred1"/>
+      <class name="test.Correctcred"/>
+      <class name="test.Logout"/>
+      <class name="test.wrongcred2"/>
+      <class name="test.Checkadded_product"/>
+      <class name="test.Checkout"/>
+      <class name="test.Add1product"/>
+      <class name="test.Remove_iteamfromcart"/>
+      <class name="test.Wrongcred3"/>
+      <class name="test.Add_multi_iteam"/>
+      <class name="test.Filter_option"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
